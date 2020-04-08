@@ -1,4 +1,4 @@
-//for command line git tutoiral
+//For command line git tutoiral
 //GitHub modification
 print("Hello world!") 
 print("Tell your world")
